@@ -1,33 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+<html>
+
 <body>
-    <header>
-        <h1>Welcome to My Website</h1>
-    </header>
 
-    <nav>
-        <ul>
-            <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
-            <li><a href="/contact">Contact</a></li>
-        </ul>
-    </nav>
+<h1 style="color: violet; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
 
-    <main>
-        <section>
-            <h2>About Me</h2>
-            <p>This is a paragraph about me. I'm learning HTML!</p>
-        </section>
-    </main>
+<h1 style="color: red; font-size: 40px;" align="center">THIS IS THE SECOND VERSION OF OUR APP</h1>
 
-    <footer>
-        <p>&copy; 2024 My Website</p>
-    </footer>
+<h2 style="color: bule; font-size: 30px;" align="center">WELCOME TO FRONTLINES MEDIA</h3>
+
+I
+
 </body>
+
 </html>
