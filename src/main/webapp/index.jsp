@@ -10,7 +10,8 @@
 
 <h4 style="color: bule; font-size: 50px;" align="center">Welcome! We're thrilled to have you with us</h4>
 
-I
+<h5 style="color: bule; font-size: 40px;" align="center">Welcome! We're thrilled to have you with us</h5>I
+
 </body>
 
 </html>
