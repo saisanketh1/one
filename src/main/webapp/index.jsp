@@ -8,9 +8,9 @@
 
 <h3 style="color: bule; font-size: 30px;" align="center">DEPLOYMENT DONE USING MAVEN & TOMCAT</h3>
 
-<h4 style="color: bule; font-size: 30px;" align="center">Welcome! We're thrilled to have you with us</h4>
+<h4 style="color: bule; font-size: 50px;" align="center">Welcome! We're thrilled to have you with us</h4>
 
-<h5 style="color: purple; font-size: 50px;" align="center">Welcome! We're thrilled to have you with us</h5>
+
 
 I
 </body>
