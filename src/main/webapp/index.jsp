@@ -10,8 +10,6 @@
 
 <h4 style="color: bule; font-size: 50px;" align="center">Welcome! We're thrilled to have you with us</h4>
 
-<h3 style="color: bule; font-size: 40px;" align="center">DEPLOYMENT DONE USING MAVEN & TOMCAT</h3>
-
 I
 </body>
 
