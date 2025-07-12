@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.236.110.68:8081</url>
+		    <url>http://54.152.81.186:8081/repository/deploy-releases</url>
 		</repository>
   	</distributionManagement>
 	
